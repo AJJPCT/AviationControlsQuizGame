@@ -6,4 +6,5 @@
     Hunter, Ethan, Andy, David, and Steven.
 
     Our goal was to create a tool to assist the aviation students at Pennsylvania College of Technology.
+    The tool teaches the aviation students about the functionality of the buttons in the cockpit of a plane.
 </asp:Content>
